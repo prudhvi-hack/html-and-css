@@ -1,1 +1,1 @@
-This file is to upload my files while learning html and css
+This repo is to upload my files while learning html and css
